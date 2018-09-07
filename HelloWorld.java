@@ -4,6 +4,8 @@ public class Hello{
 		
 		int c=40;
 		
+		int b=10;
+		
 	
 	}
 }
