@@ -17,6 +17,8 @@ public class Hello{
 		
 		int f =30;
 		
+		int g =99;
+		
 
 		
 		
