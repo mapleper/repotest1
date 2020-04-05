@@ -7,6 +7,8 @@ public class Hello{
 		
 		int b=30;
 		
+		String str ="hello-git";
+		
 
 		
 		
