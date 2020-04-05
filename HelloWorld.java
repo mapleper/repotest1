@@ -9,6 +9,8 @@ public class Hello{
 		
 		String str ="hello-git";
 		
+		int d =22;
+		
 
 		
 		
