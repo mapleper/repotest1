@@ -11,6 +11,8 @@ public class Hello{
 		
 		int d =22;
 		
+		int f =30;
+		
 
 		
 		
